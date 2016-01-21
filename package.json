@@ -1,0 +1,23 @@
+{
+  "name": "map-iterable",
+  "version": "1.0.0",
+  "description": "Apply a function to an iterable using ES6 for..of loop.",
+  "main": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyBelym/map-iterable.git"
+  },
+  "keywords": [
+    "map",
+    "iterator",
+    "ES2015",
+    "ES6"
+  ],
+  "author": "Andrey Belym (belym.a.2105@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreyBelym/map-iterable/issues"
+  },
+  "homepage": "https://github.com/AndreyBelym/map-iterable#readme",
+  "files": ["lib"]
+}
