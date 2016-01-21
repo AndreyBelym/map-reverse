@@ -1,6 +1,6 @@
 {
   "name": "map-reverse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apply a function to an array from then end to the beginning.",
   "main": "index.js",
   "repository": {
@@ -9,9 +9,7 @@
   },
   "keywords": [
     "map",
-    "iterator",
-    "ES2015",
-    "ES6"
+    "iterator"
   ],
   "author": "Andrey Belym (belym.a.2105@gmail.com)",
   "license": "MIT",
